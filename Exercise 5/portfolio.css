@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(168, 168, 176);
+
+    color: brown;
+   } 
+   .element {
+    border: 6px solid #ff0000;
+  }
+  .element {
+    margin-top: 20px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+    margin-left: 35px;
+  }
+.element {
+padding-top: 12px;
+ }
+ body {
+    outline-style: groove;
+    outline-color: rgb(37, 33, 33);
+ }
+
+.element {
+    
+        height: 80;
+        width: 100;
+      }
+    h3 {
+        color: rgb(24, 53, 121);
+    }
+    form {
+        color: rgb(68, 9, 9);
+        border: #141414;
+        outline-style: double;
+        background-color: beige;
+    }
+    p {
+        color: blue;
+            }
+            img {
+                height: 100%;
+    width: 18%;
+            }
+            html {
+                    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                  }
+                  
+                   
+            
+                  
+                  
